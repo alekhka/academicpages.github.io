@@ -1,10 +1,11 @@
 ---
 title: "Human body part estimation using CNNs"
 collection: talks
-type: ""
+type: 
 permalink: /talks/pose_esti_CNN22
 venue: 
-date: October 2020 - January 2020
+date1: October 2020
+date2: January 2020
 location: "Bengaluru, India"
 ---
 
