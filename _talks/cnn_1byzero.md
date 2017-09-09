@@ -1,7 +1,7 @@
 ---
 title: "Human body part estimation using CNNs"
 collection: talks
-type: ""
+type: 
 permalink: /talks/pose_esti_CNN
 venue: "Advisor - Mr. Kevin Roy (CTO, 1byZeroLabs)"
 date: October 2016 - January 2017

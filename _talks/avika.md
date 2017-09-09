@@ -2,9 +2,9 @@
 title: "Hey Avika!
 Voice controlled home automation system like Google Home for the blind"
 collection: talks
-type: ""
+type: 
 permalink: /talks/avika
-venue: ""
+venue: 
 date: August 2016 - September 2016
 location: "Bengaluru, India"
 ---

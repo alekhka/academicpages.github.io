@@ -1,9 +1,9 @@
 ---
 title: "Forest Fire detection system prototype using Deep Learning"
 collection: talks
-type: ""
+type: 
 permalink: /talks/forest_fire
-venue: ""
+venue: 
 date: October 2016 - January 2017
 location: "Bengaluru, India"
 ---
