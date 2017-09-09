@@ -5,7 +5,8 @@ collection: talks
 type: 
 permalink: /talks/avika
 venue: 
-date: August 2016 - September 2016
+date1: August 2016 
+date2: September 2016
 location: "Bengaluru, India"
 ---
 
