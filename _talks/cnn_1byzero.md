@@ -4,8 +4,7 @@ collection: talks
 type: 
 permalink: /talks/pose_esti_CNN
 venue: "Advisor - Mr. Kevin Roy (CTO, 1byZeroLabs)"
-date1: October 2016 
-date1: January 2017
+date: October 2020
 location: "Bengaluru, India"
 ---
 

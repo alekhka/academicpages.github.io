@@ -4,8 +4,7 @@ collection: talks
 type: 
 permalink: /talks/forest_fire
 venue: 
-date1: October 2016 
-date2: January 2017
+date1: October 2019 
 location: "Bengaluru, India"
 ---
 
